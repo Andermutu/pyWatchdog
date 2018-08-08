@@ -194,7 +194,7 @@ for i in range (8):
 
 for i in range(8):
 
-	print "iMX7 should reboot in: " + str(8-i) + " seconds"
+	print "System should reboot in: " + str(8-i) + " seconds"
 	time.sleep(1)
 
 time.sleep(1)
